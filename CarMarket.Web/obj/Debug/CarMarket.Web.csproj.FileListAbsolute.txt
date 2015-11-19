@@ -1,0 +1,166 @@
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\roslyn\csc.exe
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\roslyn\vbc.exe
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\roslyn\VBCSCompiler.exe
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\CarMarket.Web.dll.config
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\CarMarket.Web.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\CarMarket.Web.pdb
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Antlr3.Runtime.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\CarMarket.Data.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\CarMarket.Models.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\EntityFramework.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\EntityFramework.SqlServer.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Microsoft.AspNet.Identity.Core.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Microsoft.Owin.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Microsoft.Owin.Security.Cookies.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Microsoft.Owin.Security.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Microsoft.Owin.Security.Facebook.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Microsoft.Owin.Security.Google.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Microsoft.Owin.Security.OAuth.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Microsoft.Owin.Security.Twitter.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Newtonsoft.Json.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Owin.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\System.Web.Helpers.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\System.Web.Mvc.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\System.Web.Optimization.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\System.Web.Razor.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\System.Web.WebPages.Deployment.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\System.Web.WebPages.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\System.Web.WebPages.Razor.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\WebGrease.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\CarMarket.Data.pdb
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\CarMarket.Models.pdb
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\System.Web.Helpers.xml
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\System.Web.Mvc.xml
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\System.Web.Optimization.xml
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\System.Web.Razor.xml
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\System.Web.WebPages.xml
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\System.Web.WebPages.Deployment.xml
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\System.Web.WebPages.Razor.xml
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Antlr3.Runtime.pdb
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Newtonsoft.Json.xml
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\EntityFramework.xml
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\EntityFramework.SqlServer.xml
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Microsoft.AspNet.Identity.Core.xml
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Microsoft.Owin.xml
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Microsoft.Owin.Security.xml
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Microsoft.Owin.Security.Facebook.xml
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Microsoft.Owin.Security.Cookies.xml
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Microsoft.Owin.Security.OAuth.xml
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Microsoft.Owin.Security.Google.xml
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Microsoft.Owin.Security.Twitter.xml
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\obj\Debug\CarMarket.Web.csprojResolveAssemblyReference.cache
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\obj\Debug\CarMarket.Web.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\obj\Debug\CarMarket.Web.pdb
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\System.Data.SqlLocalDb.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\System.Data.SqlLocalDb.xml
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\en-GB\System.Data.SqlLocalDb.resources.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Ninject.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Ninject.Web.Common.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Ninject.Web.Mvc.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\WebActivatorEx.dll
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Ninject.xml
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Ninject.Web.Common.xml
+E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Web\bin\Ninject.Web.Mvc.xml
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\roslyn\csc.exe
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\roslyn\vbc.exe
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\CarMarket.Web.dll.config
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\CarMarket.Web.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\CarMarket.Web.pdb
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Antlr3.Runtime.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\CarMarket.Data.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\CarMarket.Models.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\EntityFramework.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Microsoft.Owin.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Newtonsoft.Json.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Ninject.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Ninject.Web.Common.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Ninject.Web.Mvc.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Owin.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\System.Data.SqlLocalDb.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\System.Web.Helpers.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\System.Web.Mvc.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\System.Web.Optimization.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\System.Web.Razor.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\System.Web.WebPages.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\WebActivatorEx.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\WebGrease.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\CarMarket.Data.pdb
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\CarMarket.Models.pdb
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Ninject.xml
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Ninject.Web.Common.xml
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Ninject.Web.Mvc.xml
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\System.Data.SqlLocalDb.xml
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\System.Web.Helpers.xml
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\System.Web.Mvc.xml
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\System.Web.Optimization.xml
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\System.Web.Razor.xml
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\System.Web.WebPages.xml
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Newtonsoft.Json.xml
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\EntityFramework.xml
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Microsoft.Owin.xml
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\bin\en-GB\System.Data.SqlLocalDb.resources.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\obj\Debug\CarMarket.Web.csprojResolveAssemblyReference.cache
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\obj\Debug\CarMarket.Web.dll
+C:\Users\Sajid\Desktop\CarProject\CarMarket\CarMarket.Web\obj\Debug\CarMarket.Web.pdb

@@ -1,3 +1,4 @@
+//Snezhina
 namespace CarMarket.Data.Migrations
 {
     using Domain;

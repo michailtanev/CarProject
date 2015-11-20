@@ -20,7 +20,7 @@ namespace CarMarket.Web.Controllers
                     Brand = x.Model.Brand.Name,
                     Model = x.Model.Name,
                     ModelYear = x.Model.Year,
-                    ImagePath = x.Image.Content,
+                    ImageId = x.Image.ImageId,
                     Color = x.Color,
                     Mileage = x.Mileage,
                     Transmission = x.Transmission,

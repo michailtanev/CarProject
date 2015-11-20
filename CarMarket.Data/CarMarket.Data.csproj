@@ -104,6 +104,8 @@
   <ItemGroup>
     <Content Include="Migrations\imgs\audi.jpg" />
     <Content Include="Migrations\imgs\ferrari.jpg" />
+    <Content Include="Migrations\imgs\ford.jpg" />
+    <Content Include="Migrations\imgs\lexus.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

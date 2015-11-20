@@ -11,6 +11,6 @@ namespace CarMarket.Web.Models
         public string Brand { get; set; }
         public string Model { get; set; }
         public int ModelYear { get; set; }
-        public byte[] ImagePath { get; set; }
+        public int ImageId { get; set; }
     }
 }

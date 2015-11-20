@@ -6,6 +6,7 @@ namespace CarMarket.Data.Migrations
     using System.Data.Entity.Migrations;
     using System.IO;
     using System.Linq;
+    using System.Reflection;
 
     public sealed class Configuration : DbMigrationsConfiguration<CarMarketDbContext>
     {

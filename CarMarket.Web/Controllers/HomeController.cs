@@ -11,7 +11,7 @@ namespace CarMarket.Web.Controllers
             var data = this.Data.Cars.All().Select(x => new CarViewModel
             {
                 Id = x.CarId,
-                ImagePath = x.Image.Content,
+                ImageId = x.Image.ImageId,
                 Brand = x.Model.Brand.Name,
                 Model = x.Model.Name,
                 ModelYear = x.Model.Year,

@@ -1,15 +1,14 @@
 ﻿using CarMarket.Web.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.Mvc;
-
+//Snezhina
 namespace CarMarket.Web.Controllers
 {
+    using System.Linq;
+    using System.Web;
+    using System.Web.Mvc;
+
     public class CarController : BaseController
     {
-        // GET: Car
+       
         public ActionResult CarDetails(int id)
         {
             var viewModel = this.Data.Cars.All().Where(x => x.CarId == id)
@@ -33,6 +32,17 @@ namespace CarMarket.Web.Controllers
                 }).FirstOrDefault();
 
             return View(viewModel);
+        }
+
+        public ActionResult Image(int id)
+        {
+            var image = this.Data.Images.GetById(id);
+            if (image == null)
+            {
+                throw new HttpException(404, "Image not found");
+            }
+
+            return File(image.Content, "image/" + image.FileExtension);
         }
     }
 }

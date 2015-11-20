@@ -21,3 +21,26 @@ E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Models\bin\Debug\WebActivatorEx.dll
 E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Models\bin\Debug\Ninject.xml
 E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Models\bin\Debug\Ninject.Web.Common.xml
 E:\KEA\4 semestar\MVC\CarMarket\CarMarket.Models\obj\Debug\CarMarket.Domain.csprojResolveAssemblyReference.cache
+C:\Users\snezhina\Desktop\CarPr\CarMarket.Models\bin\Debug\CarMarket.Models.dll.config
+C:\Users\snezhina\Desktop\CarPr\CarMarket.Models\bin\Debug\CarMarket.Models.dll
+C:\Users\snezhina\Desktop\CarPr\CarMarket.Models\bin\Debug\CarMarket.Models.pdb
+C:\Users\snezhina\Desktop\CarPr\CarMarket.Models\bin\Debug\EntityFramework.dll
+C:\Users\snezhina\Desktop\CarPr\CarMarket.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\snezhina\Desktop\CarPr\CarMarket.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\snezhina\Desktop\CarPr\CarMarket.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\snezhina\Desktop\CarPr\CarMarket.Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\snezhina\Desktop\CarPr\CarMarket.Models\bin\Debug\Ninject.dll
+C:\Users\snezhina\Desktop\CarPr\CarMarket.Models\bin\Debug\Ninject.Web.Common.dll
+C:\Users\snezhina\Desktop\CarPr\CarMarket.Models\bin\Debug\System.Data.SqlLocalDb.dll
+C:\Users\snezhina\Desktop\CarPr\CarMarket.Models\bin\Debug\WebActivatorEx.dll
+C:\Users\snezhina\Desktop\CarPr\CarMarket.Models\bin\Debug\EntityFramework.xml
+C:\Users\snezhina\Desktop\CarPr\CarMarket.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\snezhina\Desktop\CarPr\CarMarket.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\snezhina\Desktop\CarPr\CarMarket.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\snezhina\Desktop\CarPr\CarMarket.Models\bin\Debug\Ninject.xml
+C:\Users\snezhina\Desktop\CarPr\CarMarket.Models\bin\Debug\Ninject.Web.Common.xml
+C:\Users\snezhina\Desktop\CarPr\CarMarket.Models\bin\Debug\System.Data.SqlLocalDb.xml
+C:\Users\snezhina\Desktop\CarPr\CarMarket.Models\bin\Debug\en-GB\System.Data.SqlLocalDb.resources.dll
+C:\Users\snezhina\Desktop\CarPr\CarMarket.Models\obj\Debug\CarMarket.Domain.csprojResolveAssemblyReference.cache
+C:\Users\snezhina\Desktop\CarPr\CarMarket.Models\obj\Debug\CarMarket.Models.dll
+C:\Users\snezhina\Desktop\CarPr\CarMarket.Models\obj\Debug\CarMarket.Models.pdb

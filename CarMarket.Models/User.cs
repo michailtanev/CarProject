@@ -1,4 +1,5 @@
-﻿namespace CarMarket.Domain
+﻿//Snezhina
+namespace CarMarket.Domain
 {
     using Domain;
     using Microsoft.AspNet.Identity;

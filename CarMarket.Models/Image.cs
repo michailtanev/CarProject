@@ -1,7 +1,8 @@
-﻿using System.ComponentModel.DataAnnotations;
-
+﻿//Snezhina
 namespace CarMarket.Domain
 {
+    using System.ComponentModel.DataAnnotations;
+
     public class Image
     {
         [Key]

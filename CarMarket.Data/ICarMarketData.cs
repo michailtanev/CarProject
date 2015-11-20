@@ -1,4 +1,5 @@
-﻿using System.Data.Entity;
+﻿//Snezhina
+using System.Data.Entity;
 using CarMarket.Domain;
 
 namespace CarMarket.Data

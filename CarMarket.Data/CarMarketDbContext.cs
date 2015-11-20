@@ -1,4 +1,5 @@
-﻿namespace CarMarket.Data
+﻿//Snezhina
+namespace CarMarket.Data
 {
 
     using Microsoft.AspNet.Identity.EntityFramework;

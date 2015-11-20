@@ -1,4 +1,5 @@
-﻿namespace CarMarket.Data
+﻿//Snezhina
+namespace CarMarket.Data
 {
     using System;
     using System.Data.Entity;

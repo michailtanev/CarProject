@@ -12,7 +12,10 @@ namespace CarMarket.Data
         private readonly DbContext context;
         private readonly Dictionary<Type, object> repositories = new Dictionary<Type, object>();
 
-
+        public CarMarketData()
+            : this(new CarMarketDbContext())
+        {
+        }
         public CarMarketData(DbContext context)
         {
             this.context = context;

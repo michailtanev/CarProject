@@ -6,15 +6,15 @@ namespace CarMarket.Web.Controllers
 
     public class BaseController : Controller
     {
-        protected IUnitOfWorkData Data;
+        protected ICarMarketData Data;
 
-        public BaseController(IUnitOfWorkData data)
+        public BaseController(ICarMarketData data)
         {
             this.Data = data;
         }
 
         public BaseController()
-            : this(new UnitOfWorkData())
+            : this(new CarMarketData())
         {
         }
     }

@@ -83,10 +83,8 @@
     <Compile Include="GenericRepository.cs" />
     <Compile Include="ICarMarketData.cs" />
     <Compile Include="IRepository.cs" />
-    <Compile Include="IUnitOfWorkData.cs" />
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="UnitOfWorkData.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

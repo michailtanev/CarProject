@@ -18,6 +18,7 @@ namespace CarMarket.Web.Models
         public string Fuel { get; set; }
         public int? NumberOfCylinders { get; set; }
         public string SellerEmail { get; set; }
+        public string SellerPhone { get; set; }
         public string SellerNotes { get; set; }
     }
 }

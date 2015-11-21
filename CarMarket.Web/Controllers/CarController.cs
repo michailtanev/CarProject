@@ -1,10 +1,10 @@
-﻿using CarMarket.Web.Models;
-//Snezhina
+﻿//Snezhina
 namespace CarMarket.Web.Controllers
 {
     using System.Linq;
     using System.Web;
     using System.Web.Mvc;
+    using CarMarket.Web.Models;
 
     public class CarController : BaseController
     {
@@ -27,6 +27,7 @@ namespace CarMarket.Web.Controllers
                     Fuel = x.Fuel,
                     NumberOfCylinders = x.NumberOfCylinders,
                     SellerEmail = x.Seller.Email,
+                    SellerPhone = x.Seller.PhoneNumber,
                     SellerNotes = x.SellerNotes
 
                 }).FirstOrDefault();

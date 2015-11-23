@@ -1,14 +1,24 @@
 ﻿//Snezhina
 namespace CarMarket.Web.Controllers
 {
+    using CarMarket.Data;
+    using Domain;
     using CarMarket.Web.Models;
     using System.Linq;
     using System.Web.Mvc;
     public class HomeController : BaseController
     {
-        private IQueryable<CarViewModel> GetAllLaptops()
+
+        private ICarMarketData d;
+        public HomeController(ICarMarketData r) 
         {
-            var data = this.Data.Cars.All().Select(x => new CarViewModel
+            this.d = r;
+        }
+        
+       
+        private IQueryable<CarViewModel> GetAllLaptops()
+        { 
+            var data = d.Cars.All().Select(x => new CarViewModel
             {
                 Id = x.CarId,
                 ImageId = x.Image.ImageId,
@@ -23,6 +33,7 @@ namespace CarMarket.Web.Controllers
         }
         public ActionResult Index()
         {
+           
             var viewModel = GetAllLaptops();
             return View(viewModel);
         }

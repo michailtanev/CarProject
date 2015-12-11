@@ -6,12 +6,12 @@ namespace CarMarket.Web.Models
     public class CarDetailsViewModel
     {
         public int Id { get; set; }
-        public decimal Price { get; set; }
+        public decimal? Price { get; set; }
         public DateTime ListingDate { get; set; }
         public string Brand { get; set; }
         public string Model { get; set; }
-        public int ModelYear { get; set; }
-        public int ImageId { get; set; }
+        public int? ModelYear { get; set; }
+        public int? ImageId { get; set; }
         public string Color { get; set; }
         public int? Mileage { get; set; }
         public string Transmission { get; set; }

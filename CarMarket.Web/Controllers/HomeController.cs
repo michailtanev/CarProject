@@ -15,8 +15,7 @@ namespace CarMarket.Web.Controllers
             this.d = r;
         }
         
-       
-        private IQueryable<CarViewModel> GetAllLaptops()
+        private IQueryable<CarViewModel> GetAllCars()
         { 
             var data = d.Cars.All().Select(x => new CarViewModel
             {
@@ -34,7 +33,7 @@ namespace CarMarket.Web.Controllers
         public ActionResult Index()
         {
            
-            var viewModel = GetAllLaptops();
+            var viewModel = GetAllCars();
             return View(viewModel);
         }
         

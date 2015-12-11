@@ -191,12 +191,14 @@
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\BaseController.cs" />
     <Compile Include="Controllers\CarController.cs" />
+    <Compile Include="Controllers\CRUDCarController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\AddCarViewModel.cs" />
     <Compile Include="Models\CarDetailsViewModel.cs" />
     <Compile Include="Models\CarViewModel.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
@@ -251,6 +253,7 @@
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Web.config" />
     <Content Include="Views\Car\CarDetails.cshtml" />
+    <Content Include="Views\CRUDCar\Create.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

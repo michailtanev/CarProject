@@ -9,7 +9,6 @@ namespace CarMarket.Domain
         [Key]
         public int BrandId { get; set; }
 
-        [Required]
         public string Name { get; set; }
 
         public virtual ICollection<CarModel> Models { get; set; } //in case we want to see all models from specific brand; virtual for lazy loading

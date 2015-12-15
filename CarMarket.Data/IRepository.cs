@@ -1,6 +1,7 @@
 ﻿//Snezhina
 namespace CarMarket.Data
 {
+    using System.Collections.Generic;
     using System.Linq;
    
     public interface IRepository<T> where T : class
@@ -8,7 +9,7 @@ namespace CarMarket.Data
         IQueryable<T> All();
 
         T GetById(int id);
-
+        IEnumerable<Domain.Car> SearchCar(string model);
         void Add(T entity);
 
         void Update(T entity);

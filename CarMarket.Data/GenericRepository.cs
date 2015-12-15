@@ -2,6 +2,7 @@
 namespace CarMarket.Data
 {
     using System;
+    using System.Collections.Generic;
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     using System.Linq;
@@ -81,12 +82,21 @@ namespace CarMarket.Data
                 this.Delete(entity);
             }
         }
-
+       
         public virtual void Detach(T entity)
         {
             DbEntityEntry entry = this.Context.Entry(entity);
 
             entry.State = EntityState.Detached;
         }
+
+        public IEnumerable<Domain.Car> SearchCar(string model)
+        {
+            
+            
+                
+                return null;
+         
+        } 
     }
 }

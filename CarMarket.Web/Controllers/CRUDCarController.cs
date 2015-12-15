@@ -3,10 +3,12 @@
 
 namespace CarMarket.Web.Controllers
 {
+    using CarMarket.Data;
     using Domain;
     using Microsoft.AspNet.Identity;
     using Models;
     using System;
+    using System.Collections.Generic;
     using System.IO;
     using System.Linq;
     using System.Web.Mvc;
@@ -61,5 +63,6 @@ namespace CarMarket.Web.Controllers
 
             return RedirectToAction("Index", "Home");
         }
+        
     }
 }

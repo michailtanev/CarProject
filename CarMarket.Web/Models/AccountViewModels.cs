@@ -65,6 +65,15 @@ namespace CarMarket.Web.Models
     public class RegisterViewModel
     {
         [Required]
+        public string Name { get; set; }
+        [Required]
+        public string LastName { get; set; }
+        [Required]
+        public string PostCode { get; set; }
+        [Required]
+        public string Address { get; set; }
+        [Required]
+        public string City { get; set; }
         [EmailAddress]
         [Display(Name = "Email")]
         public string Email { get; set; }

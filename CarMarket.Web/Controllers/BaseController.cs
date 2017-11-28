@@ -1,5 +1,4 @@
-﻿//Snezhina
-namespace CarMarket.Web.Controllers
+﻿namespace CarMarket.Web.Controllers
 {
     using System.Web.Mvc;
     using CarMarket.Data;

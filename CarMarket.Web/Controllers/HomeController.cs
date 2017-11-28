@@ -1,5 +1,4 @@
-﻿//Snezhina
-namespace CarMarket.Web.Controllers
+﻿namespace CarMarket.Web.Controllers
 {
     using CarMarket.Data;
     using Domain;
@@ -10,13 +9,13 @@ namespace CarMarket.Web.Controllers
     {
 
         private ICarMarketData d;
-        public HomeController(ICarMarketData r) 
+        public HomeController(ICarMarketData r)
         {
             this.d = r;
         }
-        
+
         private IQueryable<CarViewModel> GetAllCars()
-        { 
+        {
             var data = d.Cars.All().Select(x => new CarViewModel
             {
                 Id = x.CarId,
@@ -32,10 +31,10 @@ namespace CarMarket.Web.Controllers
         }
         public ActionResult Index()
         {
-           
+
             var viewModel = GetAllCars();
             return View(viewModel);
         }
-        
+
     }
 }

@@ -1,7 +1,4 @@
-﻿
-//Mihail
-
-namespace CarMarket.Web.Controllers
+﻿namespace CarMarket.Web.Controllers
 {
     using CarMarket.Data;
     using Domain;

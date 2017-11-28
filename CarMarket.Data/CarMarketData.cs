@@ -1,5 +1,4 @@
-﻿//Snezhina
-namespace CarMarket.Data
+﻿namespace CarMarket.Data
 {
     using Domain;
     using System;

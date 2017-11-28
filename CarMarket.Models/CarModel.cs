@@ -1,5 +1,4 @@
-﻿//Snezhina
-namespace CarMarket.Domain
+﻿namespace CarMarket.Domain
 {
     using System.Collections.Generic;
     using System.ComponentModel.DataAnnotations;

@@ -1,5 +1,4 @@
-﻿//Snezhina
-namespace CarMarket.Data
+﻿namespace CarMarket.Data
 {
     using System.Collections.Generic;
     using System.Linq;

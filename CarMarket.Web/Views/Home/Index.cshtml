@@ -7,13 +7,15 @@
 }
 
 <div class="jumbotron">
-    <h1>Carmarket.com</h1>
-    <p class="lead">A leading online destination for car shoppers and owners.</p>
-    <p><a href="#" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+    <h1>Carmarket</h1>
+    <p class="lead">A leading online destination for car shoppers and owners</p>
+    <p><a href="http://localhost:57800/Account/Login" class="btn btn-primary btn-lg">Click to Login</a></p>
+    @*<p><a href="http://localhost:57800/Search/Search" class="btn btn-danger btn-lg">Search</a></p>*@
+
 </div>
 
 
-<nav class="navbar navbar-default">
+@*<nav class="navbar navbar-default">
     <div class="container-fluid">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
@@ -40,7 +42,7 @@
             </ul>
         </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
-</nav>
+</nav>*@
 
 
 <div class="row">
@@ -55,7 +57,7 @@
                 <div class="caption">
                     <h4 class="pull-right text-danger">$@car.Price</h4>
                     <h4>
-                        <a href="#">@car.Brand @car.Model @car.ModelYear</a>
+                        <a href="@Url.Action("CarDetails","Car",new { car.Id })">@car.Brand @car.Model</a>
                     </h4>
                     <p class="pull-right">
                         <a class="btn btn-primary" href="@Url.Action("CarDetails", "Car", new { car.Id })"> Details </a>

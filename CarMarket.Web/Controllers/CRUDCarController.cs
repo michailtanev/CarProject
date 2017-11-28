@@ -26,7 +26,7 @@ namespace CarMarket.Web.Controllers
         [HttpPost]
         public ActionResult Create(AddCarViewModel m)
         {
-            var v = Request.Params;
+            //var v = Request.Params;
             if (ModelState.IsValid)
             {
                 var user = User.Identity.GetUserId();

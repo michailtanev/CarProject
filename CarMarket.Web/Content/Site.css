@@ -22,3 +22,32 @@ select,
 textarea {
     max-width: 280px;
 }
+.img-responsive {
+    display: block;
+    max-width: 70%;
+}
+.thumbnail > img {
+    display: block;
+    height: 220px !important;
+    max-width: 100%;
+}
+.jumbotron {
+    text-align: center;
+    background-color:white!important;
+}
+.btn-lg {
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.33;
+    border-radius: 25px!important;
+}
+.navbar-inverse .navbar-brand {
+    color: #eee!important;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: #eee !important;
+}
+.img-responsive {
+    display: block;
+    max-width: 90% !important;
+}

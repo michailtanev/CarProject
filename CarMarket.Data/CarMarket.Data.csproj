@@ -140,6 +140,7 @@
     <Content Include="Content\themes\base\theme.css" />
     <Content Include="Content\themes\base\tooltip.css" />
     <Content Include="Migrations\imgs\audi.jpg" />
+    <Content Include="Migrations\imgs\audia4.jpg" />
     <Content Include="Migrations\imgs\ferrari.jpg" />
     <Content Include="Migrations\imgs\ford.jpg" />
     <Content Include="Migrations\imgs\lexus.jpg" />

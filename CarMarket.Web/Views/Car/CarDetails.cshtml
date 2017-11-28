@@ -9,7 +9,7 @@
     <div class="col-lg-12">
         <h1 class="page-header">
            @Model.Brand
-            <small>@Model.Model @Model.ModelYear</small>
+            <small>@Model.Model </small>
         </h1>
     </div>
 </div>
@@ -23,6 +23,7 @@
         <h2 class="text-danger" >$@Model.Price</h2>
         <h3>Vehicle Details</h3>
         <ul class="list-group">
+            <li class="list-group-item">Year: <p class="pull-right text-info">@Model.ModelYear</p></li>
             <li class="list-group-item">Color: <p class="pull-right text-info">@Model.Color</p></li>
             <li class="list-group-item">Mileage: <p class="pull-right text-info">@Model.Mileage</p></li>
             <li class="list-group-item">Transmission: <p class="pull-right text-info">@Model.Transmission</p></li>

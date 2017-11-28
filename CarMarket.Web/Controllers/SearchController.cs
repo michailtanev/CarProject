@@ -15,18 +15,20 @@ namespace CarMarket.Web.Controllers
         [HttpGet]
         public ActionResult Search()
         {
-            SearchcarViewModel vm = new SearchcarViewModel();
-            return View(vm);
+            SearchcarViewModel model = new SearchcarViewModel();
+            return View(model);
         }
         [HttpPost]
-        public ActionResult Search(SearchcarViewModel vm)
+        public ActionResult Search(SearchcarViewModel model)
         {
             if (ModelState.IsValid)
             {
-                int mile = int.Parse(vm.CarModel);
-                var con = new CarMarketDbContext();
-                IEnumerable<Car> ca = con.Cars.Where(x => x.Mileage == mile);
-                return PartialView("_SearchCar", ca);
+                string carBrand = Convert.ToString(model.CarModel);
+                var db = new CarMarketDbContext();
+                IEnumerable<Car> cars = db.Cars
+                    .Where(x => x.Model.Brand.Name == carBrand) 
+                    .ToList();                    
+                return PartialView("_SearchCar", cars);
             }
             return Json("Error");
         }

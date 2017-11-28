@@ -1,6 +1,7 @@
 ﻿//Snezhina
 namespace CarMarket.Domain
 {
+    using System.Collections.Generic;
     using System.ComponentModel.DataAnnotations;
 
     public class CarModel
@@ -14,5 +15,7 @@ namespace CarMarket.Domain
 
         public int BrandId { get; set; }               //foreign key
         public virtual Brand Brand { get; set; }      //Navigation property; virtual for lazy loading
+
+
     }
 }

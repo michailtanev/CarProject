@@ -36,7 +36,7 @@
                         m.UploadedImage.InputStream.CopyTo(memory);
                         content = memory.GetBuffer();
                         fileExtension = m.UploadedImage.FileName.Split(new[] { '.' }).Last();
-                      
+
                     }
                 }
 
@@ -49,9 +49,10 @@
                     Transmission = m.Transmission,
                     Fuel = m.Fuel,
                     NumberOfCylinders = m.NumberOfCylinders,
+                    SellerNotes = m.SellerNotes,
                     ListingDate = DateTime.Now,
                     SellerId = user,
-                    Image = new Image { Content = content, FileExtension= fileExtension}
+                    Image = new Image { Content = content, FileExtension = fileExtension }
                 };
 
                 this.Data.Cars.Add(car);
@@ -60,6 +61,6 @@
 
             return RedirectToAction("Index", "Home");
         }
-        
+
     }
 }

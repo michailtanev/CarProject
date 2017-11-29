@@ -16,7 +16,6 @@ namespace CarMarket.Data
                 var carlist = con.Cars.Where(x => x.Model.Equals(model));
                 return carlist;
             }
-            return null;
         }
     }
 }

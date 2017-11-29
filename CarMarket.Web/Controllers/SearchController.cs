@@ -11,7 +11,7 @@ namespace CarMarket.Web.Controllers
 {
     public class SearchController : BaseController
     {
-        
+
         [HttpGet]
         public ActionResult Search()
         {
@@ -26,8 +26,9 @@ namespace CarMarket.Web.Controllers
                 string carBrand = Convert.ToString(model.CarModel);
                 var db = new CarMarketDbContext();
                 IEnumerable<Car> cars = db.Cars
-                    .Where(x => x.Model.Brand.Name == carBrand) 
-                    .ToList();                    
+                    .Where(x => x.Model.Brand.Name == carBrand
+                    || x.Model.Name == carBrand)
+                    .ToList();
                 return PartialView("_SearchCar", cars);
             }
             return Json("Error");
